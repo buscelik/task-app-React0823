@@ -2,6 +2,29 @@
 
 Project Design File [Figma](https://www.figma.com/file/IA8HIFphfaaKihWzkeAWvV/Untitled?type=design&node-id=2-182&mode=design&t=mV1ccWF5CiUOJceD-0).
 
+
+## STEPS:
+
+Adımlar :
+1- Tasarımları hazırlayalım
+2- State'leri planlayalım
+3- Componentleri planlayalım
+4- Bir boş proje oluşturalım: npx create-react-app task-app-react0823
+5- GitHub reposu oluşturalım
+6- Folder yapısı ve componentleri oluşturacağız
+
+Router
+    BrowserRouter
+    Switch
+    Route
+    NavLink
+    Link
+
+7- react-router-dom'u yükleyelim:
+    -app'imizi browserrouter ile sarmalayacağız
+    -import { BrowserRouter as Router } from "react-router-dom";
+
+
 ## Available Scripts
 
 In the project directory, you can run:
