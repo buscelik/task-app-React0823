@@ -1,0 +1,26 @@
+.login-form {
+    width: 20%;
+    min-width:200px;
+    margin: auto;
+
+}
+
+h2 {
+    font-weight: bolder !important;
+    color: brown !important;
+}
+
+.kaydet-buton-container {
+    text-align: center; /* Metni yatayda ortalar */
+  }
+  
+  .kaydet-buton {
+    display: inline-block; /* Butonu yatayda sıralar */
+    padding: 10px 20px; /* İstenilen yükseklik ve genişlik değerlerini ayarlayın */
+    background-color: brown; /* Arkaplan rengi */
+    color: #fff; /* Metin rengi */
+    border: none; /* Kenarlık yok */
+    border-radius: 5px; /* Kenar yuvarlatma */
+    cursor: pointer; /* İmleci bir el işareti yapar */
+  }
+  
